@@ -1,16 +1,19 @@
-## Hi there 👋
+## HI, I AM THIAGO! 👋
 
-<!--
-**ThiagoHeckler/ThiagoHeckler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-emanuel-correia-heckler-77ba27268/)
 
-Here are some ideas to get you started:
+## Sobre mim
+Desenvolvedor apaixonado por tecnologia e inovação. Sempre em busca de novos desafios e aprendizado constante.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- **Frontend:** Angular
+- **Backend:** Spring Boot, Java
+- **Banco de Dados:** MySQL
+
+## Contato
+Para mais informações sobre meu trabalho, sinta-se à vontade para entrar em contato comigo através do [LinkedIn](https://www.linkedin.com/in/thiago-emanuel-correia-heckler-77ba27268/).
+
+---
+
+⭐️ Deixe uma estrela se você gostou do meu perfil!
+
