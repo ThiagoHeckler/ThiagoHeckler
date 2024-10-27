@@ -56,13 +56,13 @@
 <a href="https://www.linkedin.com/in/thiago-emanuel-correia-heckler-77ba27268/">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </a>
-<a href="https://criarmeulink.com.br/u/1730036047">
+<a [Envie-me um e-mail](mailto:thiag0224@hotmail.com)>
 <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
 </a>
 <a href="https://www.instagram.com/heckler.projetosdev/">
 <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </a>
-<a href="https://criarmeulink.com.br/u/1730035863">
+<a href="https://t.me/ThiagoHeckler">
 <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </a>
 
