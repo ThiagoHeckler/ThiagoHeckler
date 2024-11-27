@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Eu sou um jovem entusiasta no desenvolvimento web, cursando Ciência da Computação. <br><br>Em busca de novos desafios!<br><br> <br><br> Desenvolvendo soluções front-end para empresas que queriam designs inteligentes e atraentes para seus clientes<br><br> - 🔭 Em busca do meu primeiro trabalho na área de desenvolvimento web<br>- 📚 Atualmente estou estudando desenvolvimento web front-end, mas pretendo ser full-stack um dia<br>- ⚡ No tempo livre gosto de por ideias em prática, ler e desenhar são meus hobbies para ter novas ideias</p>
+<p align="left">Eu sou um jovem entusiasta no desenvolvimento web, cursando Ciência da Computação. <br><br>Em busca de novos desafios! <br><br> Desenvolvendo soluções front-end para empresas que queriam designs inteligentes e atraentes para seus clientes<br><br><br> - 🔭 Em busca do meu primeiro trabalho na área de desenvolvimento web<br>- 📚 Atualmente estou estudando desenvolvimento web front-end, mas pretendo ser full-stack um dia<br>- ⚡ No tempo livre gosto de por ideias em prática, ler e desenhar são meus hobbies para ter novas ideias</p>
 
 ###
 
