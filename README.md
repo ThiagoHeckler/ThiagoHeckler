@@ -46,8 +46,7 @@ O que eu mais gosto de fazer é justamente isso: conectar sistemas que dão trab
 |---|---|
 | **OKM Cobranças** | Plataforma SaaS multi-tenant de cobrança: emissão de PIX com QR Code, automação e análise de logs com IA. FastAPI · PostgreSQL · React · Docker. |
 | **SisContábil** | Aplicação contábil com backend Laravel e front React/Vite. Inclui módulo de consulta de NCM a partir da base pública do Siscomex. |
-| **API NFC-e SEFAZ-MT** | API de consulta de notas em lote com processamento assíncrono. Laravel · Redis · MySQL · filas gerenciadas por Supervisor. |
-| **DevDiary** | Meu portfólio/blog pessoal. Monorepo com front React e backend Spring Boot. |
+| **ThiagoHeckler** | Meu portfólio/blog pessoal. Com front React e backend Spring Boot. |
 
 > Os links de cada repositório estão fixados no meu perfil.
 
