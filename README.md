@@ -51,6 +51,13 @@ O que eu mais gosto de fazer é justamente isso: conectar sistemas que dão trab
 > Os links de cada repositório estão fixados no meu perfil.
 
 ### Estatísticas
+<div align="center">
+  <a href="https://github.com/thiagoheckler">
+    <img src="https://medeiro-stats.vercel.app/api/stats?user=thiagoheckler" alt="GitHub Stats" />
+  </a>
+</div>
+
+
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ThiagoHeckler&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=F4A81D&icon_color=2DD4BF&text_color=EAF0F6" alt="Estatísticas do GitHub" />
