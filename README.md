@@ -57,13 +57,6 @@ O que eu mais gosto de fazer é justamente isso: conectar sistemas que dão trab
   </a>
 </div>
 
-
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ThiagoHeckler&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=F4A81D&icon_color=2DD4BF&text_color=EAF0F6" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHeckler&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=F4A81D&text_color=EAF0F6" alt="Linguagens mais usadas" />
-</p>
-
 ### Contato
 
 [![Site](https://img.shields.io/badge/Site-thiagoheckler.com.br-F4A81D?style=for-the-badge&logoColor=0D1B2A)](https://thiagoheckler.com.br/)
